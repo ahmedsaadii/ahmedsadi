@@ -115,11 +115,10 @@ margin: auto 0;
 .servicesection{
  background-color:#FCF5ED;
   color:#abc4ff;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-
+  display: flex;
   
- gap: 0px;
+  flex-wrap: wrap;
+  gap: 0px;
   margin-top: 50px;
   justify-content: space-between;
   padding-top: 8em;
@@ -177,8 +176,7 @@ margin-bottom: 1em;
   text-align: center;
   font-size: 4vw;
   margin: 0;
- 
-
+  
 }
 .down-arrow{
   width: 8vh;
@@ -191,11 +189,13 @@ margin-bottom: 1em;
   padding: 0 100px;
   background-color: #f1c0e8;
   display: flex;
-  justify-content: space-between;
+  gap: 30px;
+  flex-wrap: wrap;
+ justify-content: space-around;
+  
 }
 .projectsection img{
   width: 35vh;
-  
-
 }
+
 
