@@ -341,7 +341,7 @@ input[type=button]:hover{
  padding: 15px 15px;
 }
 .title-header{
-  margin-top: 400px;
+  margin-top: 290px;
   
 }
 .title-header p{
@@ -351,7 +351,7 @@ input[type=button]:hover{
   font-size: 2rem;
 }
 #twobuttons button{
-  font-size: 2.1rem;
+  font-size: 1.5rem;
   border-radius: 12px;
   padding: 14px 20px;
   color:black;
