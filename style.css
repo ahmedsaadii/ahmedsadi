@@ -35,11 +35,11 @@ nav{
 .menu-bar ul a{
     text-decoration: none;
     color:#abc4ff;
-    font-size: 1.4rem;
+    font-size: .70rem;
 }
 
 #left_btn{
-    font-size: 100%;
+    font-size: .60rem;
     border-radius: 12px;
     padding: 4px 12px;
     color:black;
@@ -94,7 +94,7 @@ margin: auto 0;
        
 }
 #twobuttons button{
-  font-size: 1.1rem;
+  font-size: .70rem;
   border-radius: 12px;
   padding: 4px 12px;
   color:black;
@@ -328,7 +328,7 @@ input[type=button]:hover{
   .menu-bar ul a{
     text-decoration: none;
     color:#abc4ff;
-    font-size: 3rem;
+    font-size: 1.4rem;
     
 }
 .menu-bar ul {
@@ -337,8 +337,8 @@ input[type=button]:hover{
   column-gap: 7em;
 }
 #left_btn{
-  font-size: 2rem;
- padding: 15px 15px;
+  font-size: 1rem;
+ padding: 8px 12px;
 }
 .title-header{
   margin-top: 400px;
@@ -351,9 +351,9 @@ input[type=button]:hover{
   font-size: 2rem;
 }
 #twobuttons button{
-  font-size: 2.1rem;
+  font-size: 1rem;
   border-radius: 12px;
-  padding: 14px 20px;
+  padding: 8px 15px;
   color:black;
   background-color:#abc4ff;
   border: none;
@@ -369,11 +369,11 @@ input[type=text],input[type=email],textarea{
   border-radius: 5px;
  }
  ::placeholder{
-  font-size: 2rem;
+  font-size: 1rem;
  }
  input[type=button]{
   padding: .5em 1.5em ;
-  font-size: 2rem;
+  font-size: 1rem;
   border: none;
   border-radius: 5px;
   color: gray;
